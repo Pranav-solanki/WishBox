@@ -1,14 +1,12 @@
-Sound Effect Used
-This project includes the "Happy Birthday" sound effect by Universfield, sourced from Pixabay.
+## Sound Effect Used
 
-Duration: 2 seconds
+This project uses the **"Happy Birthday"** sound effect by **Universfield**, sourced from [Pixabay](https://pixabay.com/sound-effects/happy-birthday-11456/).
 
-Theme: Joyful, Celebration, Festive
+- **Duration:** 2 seconds  
+- **Theme:** Joyful, Celebration, Festive  
+- **License:** Pixabay License — royalty-free for both commercial and non-commercial use.  
+- **License details:** [Pixabay License Summary](https://pixabay.com/service/license-summary/)
 
-License: Pixabay License — royalty-free for commercial and non-commercial use.
+### Attribution (Optional but Appreciated)
 
-License details: Pixabay License Summary
-
-Attribution (Optional but Appreciated)
-Sound Effect by Universfield from Pixabay.
-
+Sound Effect by **Universfield** from [Pixabay](https://pixabay.com/users/universfield-2503303/).
